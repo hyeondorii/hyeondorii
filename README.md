@@ -1,32 +1,23 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9C5D5&height=200&section=header&text=HELLO!%20I'm%20hyeondorii%20💗&fontSize=40&fontColor=ffffff" />
-</div>
-
----
-
-### 💻 Tech Stack
-
+<!-- 배너 (모노 폰트 + 모던 스타일 타이핑 효과) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-ffb6c1?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-ffc0cb?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSSQL-ff69b4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-FBAED2?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-F48FB1?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=22&pause=1200&color=222222&center=true&vCenter=true&width=700&lines=hyeondorii%20%7C%20Backend%20%26%20Internal%20System%20Developer;ERP%20%7C%20Automation%20%7C%20.NET%20%7C%20SQL;Clean%20Code%20+%20Clarity%20+%20Consistency" />
+</p>
+
+<!-- 간결한 소개문 -->
+<p align="center">
+  <b>Backend · Internal Automation · System Architecture</b>
+</p>
+
+<p align="center" style="font-style: italic; color: #444;">
+  Designing systems that solve real problems. Writing code that lasts.
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyeondorii&show_icons=true&theme=tokyonight&icon_color=F58AD3&title_color=F58AD3" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyeondorii&theme=tokyonight&ring=F58AD3&fire=F58AD3&currStreakLabel=F58AD3" width="48%"/>
-</p>
+<div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hyeondorii&show_icons=true&theme=graywhite&hide_border=true&custom_title=Overview" />
+  <img height="150px" src="https://github-readme-streak-stats.demolab.com?user=hyeondorii&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F9C5D5&height=100&section=footer" />
-
-</div>
